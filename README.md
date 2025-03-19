@@ -1,4 +1,4 @@
-<img width="960" alt="image" src="https://github.com/user-attachments/assets/ce898d55-c31c-47c6-bdee-70a9ba0de110" /># JobSeeker
+# JobSeeker
 
 ## 📌 Overview
 The **Job Seeker System** is a web-based platform that allows users to manage job seeker profiles efficiently. Built using **Spring Boot**, **React**, and **SQL**, the system provides essential **CRUD (Create, Read, Update, Delete) functionalities** for job seekers, enabling seamless data management.
